@@ -3,7 +3,7 @@
 
 A simple web-based stopwatch application built using HTML, CSS, and JavaScript.
 
-## Table of Contents [Live Demo(https://bespoke-longma-e1073d.netlify.app/)]
+## Table of Contents [Live Demo](https://bespoke-longma-e1073d.netlify.app/)
 
 - [Introduction](#introduction)
 - [Features](#features)

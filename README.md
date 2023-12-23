@@ -56,5 +56,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 ## License
 
 This project is licensed under the [CodingNinja License](LICENSE).
-
-Feel free to customize the README file based on your specific project details. Include screenshots or GIFs if necessary to showcase your application in action.

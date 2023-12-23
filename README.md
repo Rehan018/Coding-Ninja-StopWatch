@@ -3,7 +3,7 @@
 
 A simple web-based stopwatch application built using HTML, CSS, and JavaScript.
 
-## Table of Contents
+## Table of Contents (Live Demo)
 
 - [Introduction](#introduction)
 - [Features](#features)
